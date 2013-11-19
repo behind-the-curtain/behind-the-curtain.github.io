@@ -6678,6 +6678,13 @@ h5 {
   display: block;
   margin: 0 auto;
 }
+.leaders .connect {
+  font-weight: bold;
+  line-height: 18px;
+}
+.leaders .connect .fa {
+  font-size: 18px;
+}
 .segue {
   font-style: italic;
   font-family: "Droid Serif", Georgia, Times, "Times New Roman", serif;
